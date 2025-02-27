@@ -7,8 +7,8 @@
 - **Currently Learning:** 📘 Computer Vision Functionality in 3D objects
   One of the most interesting ventures I've had in quite some time. Any invitations to collaborate or learn together are welcome!
   
-- **Hobbies:** ♟️ Chess | 🎵 Music Listening | 🚴 Lifting/Exercising
-  I am unfortunately slightly (very) washed at chess. I still try though.
+- **Hobbies:** ♟️ Chess | 🎵 Music Listening | 🚴 Lifting/Exercising | ⚽ Watching Soccer (Football!)
+  I am unfortunately slightly (very) washed at chess. As washed as Manchester United....
 
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
