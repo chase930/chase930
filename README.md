@@ -1,4 +1,4 @@
-# Hi there, I'm Chiyoon (Chase) Min - 민치윤
+# Hi there! 안녕하세요! I'm Chiyoon (Chase) Min - 민치윤
 
 ## 🙋‍♂️ About Me
 - **Currently Working On:** 🚀 A personal portfolio to display myself better
