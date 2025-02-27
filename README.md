@@ -2,12 +2,15 @@
 
 ## 🙋‍♂️ About Me
 - **Currently Working On:** 🚀 A personal portfolio to display myself better
+
   Hoping to get this done by the end of March!
   
 - **Currently Learning:** 📘 Computer Vision Functionality in 3D objects
+
   One of the most interesting ventures I've had in quite some time. Any invitations to collaborate or learn together are welcome!
   
 - **Hobbies:** ♟️ Chess | 🎵 Music Listening | 🚴 Lifting/Exercising | ⚽ Watching Soccer (Football!)
+
   I am unfortunately slightly (very) washed at chess. As washed as Manchester United....
 
 ## 💻 Skills
