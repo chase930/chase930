@@ -2,8 +2,13 @@
 
 ## 🙋‍♂️ About Me
 - **Currently Working On:** 🚀 A personal portfolio to display myself better
+  Hoping to get this done by the end of March!
+  
 - **Currently Learning:** 📘 Computer Vision Functionality in 3D objects
+  One of the most interesting ventures I've had in quite some time. Any invitations to collaborate or learn together are welcome!
+  
 - **Hobbies:** ♟️ Chess | 🎵 Music Listening | 🚴 Lifting/Exercising
+  I am unfortunately slightly (very) washed at chess. I still try though.
 
 ## 💻 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -36,6 +41,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chase930&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+## 🔝 Most Contributed Repo List
+![](https://github-contributor-stats.vercel.app/api?username=chase930&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🤔 Fun Tidbits
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 Thanks for reading! Please feel free to reach out or connect. 
+---
+
+
